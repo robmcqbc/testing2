@@ -1,4 +1,4 @@
 theme: jekyll-theme-tactile
 title: Rob McQueen
 Description: Homepage of Rob McQueen
-show_downloads: false
+show_downloads: true
