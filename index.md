@@ -1,8 +1,6 @@
-## Rob McQueen
+## Hi there!
 
-Rob McQueen is a graduate student in Boston College Department of Philosophy. His interests include...
-
-### Papers and Projects
+Thanks for stopping by. My name is Rob McQueen. I am currently a Masters student in the Boston College Philosophy Department. My main interests are in the history of philosophy, metaphysics, and phenomenology. 
 
 ### Interests
 
